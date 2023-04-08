@@ -19,7 +19,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(https://lefeliustest.w3spaces.com/csgo.jpg);
+  background-image: url(csgo.jpg);
   background-size: cover;
   background-position: center;
   filter: grayscale(100%);
@@ -44,7 +44,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(https://lefeliustest.w3spaces.com/Minecraft.png);
+  background-image: url(Minecraft.png);
   background-size: cover;
   background-position: center;
   filter: grayscale(100%);
